@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">2Plans</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="small_text">
+        "Material is the metaphor.\n\n"
+
+        "A material metaphor is the unifying theory of a rationalized space and a system of motion."
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "technologically advanced and open to imagination and magic.\n"
+        "Surfaces and edges of the material provide visual cues that are grounded in reality. The "
+        "use of familiar tactile attributes helps users quickly understand affordances. Yet the "
+        "flexibility of the material creates new affordances that supercede those in the physical "
+        "world, without breaking the rules of physics.\n"
+        "The fundamentals of light, surface, and movement are key to conveying how objects move, "
+        "interact, and exist in space and in relation to each other. Realistic lighting shows "
+        "seams, divides space, and indicates moving parts.\n\n"
+    </string>
+    <string name="two_plans">One Step</string>
+    <string name="about_us">
+        "Traveling is one of the most favorite thing to do\n"
+        "But sometimes we're too afraid to do it\n"
+        "Because we don't know where or how to\n"
+        "But OneStep can overcome all your concern\n"
+        "OneStep will be your personal guide to start your journey...\n"
+    </string>
+    
+</resources>
