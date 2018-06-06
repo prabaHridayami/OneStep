@@ -14,11 +14,11 @@ import android.widget.TextView;
 public class SubAdapterGunung extends RecyclerView.Adapter<SubAdapterGunung.ViewHolder> {
     private static final String TAG = "SubAdapterGunung";
 
-    String namaGunung [] = {"Gunung Agung","Gunung Batur","Gunung apada","Gunung Abang"};
+    String namaGunung [] = {"Gunung Agung","Gunung Batur","Gunung Batukaru","Gunung Abang"};
     int gunung [] = {R.drawable.gunungagung,
-            R.drawable.pantaisanur,
-            R.drawable.purauluwatu,
-            R.drawable.desa_wisata_penglipuran};
+            R.drawable.gunungbatur,
+            R.drawable.gunungbatukaru,
+            R.drawable.gunungabang};
     String detail [] = {"Gunung Agung terletak di Kecamatan Rendang, Karangasem, Bali. Gunung ini memiliki ketinggian 3.031 mdpl, kawah yang sangat besar, melingkar dan lebar. Saat di puncak Gunung Agung dapat melihat puncak Gunung Rinjani yang berada di pulau Lombok di sebelah timur. Jalur pendakiannya bisa melalui Sebudi maupun Besakih.",
             "Gunung Batur terletak di Kecamatan Kintamani, Bangli, Bali. Gunung ini memiliki ketinggian 1.717 mdpl. Gunung Batur mengelilingi danau kaldera Batur seluas 13 km2 . Saat di puncak Gunung Batur dapat melihat puncak Agung, Gunung Abang dan Gunung Rinjani (jika cuaca mendukung). Jalur pendakiannya melalui Pura Jati Toya Bungkah.",
             "Gunung Batukaru terletak di Kecamatan Penebel, Tabanan, Bali. Gunung ini memiliki ketinggian 2.276 mdpl. Gunung Batukaru memiliki curah hujan tinggi dengan keragaman flora dan fauna. Saat di puncak Gunung Batukaru dapat melihat Pura Kedaton yang berada disana. Jalur pendakiannnya melalui desa Pujungan kecamatan Pupuan.",
